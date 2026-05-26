@@ -31,6 +31,7 @@ import EditorPanel from './components/EditorPanel';
 import CMFloatAd   from './components/CMFloatAd';
 import { useEditorHistory } from './hooks/useEditorHistory';
 import exeterLogo from '/exeter-college-black-text.svg';
+import appLogo    from '/favicon.png';
 import './App.css';
 
 // ─── Starter scaffold ────────────────────────────────────────────────────────
@@ -220,6 +221,7 @@ export default function App() {
             <span className="header-title">Code Playground</span>
             <span className="header-subtitle">HTML · CSS · JS Playpen</span>
           </div>
+          <img src={appLogo} alt="Code Playground" className="header-app-logo" />
         </div>
 
         <div className="header-controls">
