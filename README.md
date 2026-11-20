@@ -119,7 +119,7 @@ The branding banner is `position: fixed` and right-anchored.  It uses `width: ma
 
 ## License
 
-Copyright © 2026 Simon Rundell, Department of ITDD, Exeter College, Hele Road, Exeter EX4 4JS.
+Copyright © 2026 Simon Rundell, Department of Cybersecurity and Digital Technologies, Exeter College, Hele Road, Exeter EX4 4JS.
 
 This work is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** licence.
 
@@ -132,7 +132,7 @@ Full licence text: [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://
 ## Author
 
 **Simon Rundell**  
-Department of Information Technology and Digital Design (ITDD)  
+Department of Information Technology and Digital Design (Cybersecurity and Digital Technologies)  
 Exeter College, Hele Road, Exeter EX4 4JS  
 Tel: 01392 400500  
 Email: [simonrundell@exe-coll.ac.uk](mailto:simonrundell@exe-coll.ac.uk)
